@@ -1,29 +1,24 @@
 {
   "name": "mu2",
   "version": "1.0.0",
-  "description": "Basic Compositon of all Js repos",
+  "description": "Initiator Repo",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "babel-eslint": "^8.1.2",
-    "eslint": "4.18.2",
-    "eslint-config-airbnb-base": "12.1.0",
-    "eslint-config-prettier": "^2.9.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-prettier": "^2.6.0",
+    "@hellpack/eslint": "^0.1.0",
     "prettier": "^1.13.2"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajatsharma305/mu2.git"
+    "url": "git+https://github.com/rajatsharma/mu2.git"
   },
   "keywords": ["repos", "js", "eslint", "prettier", "editorconfig"],
   "author": "Rajat Sharma",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rajatsharma305/mu2/issues"
+    "url": "https://github.com/rajatsharma/mu2/issues"
   },
-  "homepage": "https://github.com/rajatsharma305/mu2#readme"
+  "homepage": "https://github.com/rajatsharma/mu2#readme"
 }

@@ -1,4 +1,3 @@
 ## mu2
 
-_Basic Compositon of all the repos._
-
+_Initiator Repo._
