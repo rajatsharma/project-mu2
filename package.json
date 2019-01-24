@@ -8,7 +8,8 @@
   },
   "devDependencies": {
     "@hellpack/eslint": "^0.1.0",
-    "prettier": "^1.13.2"
+    "prettier": "^1.13.2",
+    "@lectro/node": "^0.1.0-alpha.3"
   },
   "repository": {
     "type": "git",
