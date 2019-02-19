@@ -4,11 +4,11 @@
   "description": "Initiator Repo",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build.js"
   },
   "devDependencies": {
     "@hellpack/eslint-config-hellpack": "^2.0.0-alpha.2",
-    "@lectro/node": "^0.1.0-alpha.3",
+    "@lectro/node": "^0.1.0-alpha.6",
     "prettier": "^1.13.2"
   },
   "repository": {
