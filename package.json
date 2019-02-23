@@ -6,20 +6,28 @@
   "scripts": {
     "build": "node build.js"
   },
-  "devDependencies": {
-    "@hellpack/eslint-config-hellpack": "^2.0.0-alpha.2",
-    "@lectro/node": "^0.1.0-alpha.6",
-    "prettier": "^1.13.2"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rajatsharma/mu2.git"
   },
-  "keywords": ["repos", "js", "eslint", "prettier", "editorconfig"],
+  "keywords": [
+    "repos",
+    "js",
+    "eslint",
+    "prettier",
+    "editorconfig"
+  ],
   "author": "Rajat Sharma",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/rajatsharma/mu2/issues"
   },
-  "homepage": "https://github.com/rajatsharma/mu2#readme"
+  "homepage": "https://github.com/rajatsharma/mu2#readme",
+  "devDependencies": {
+    "@hellpack/eslint-config-hellpack": "^2.0.0-alpha.5",
+    "eslint": "^5.14.1",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  }
 }
