@@ -4,7 +4,6 @@
   "description": "Initiator Repo",
   "main": "lib/index.js",
   "scripts": {
-    "build": "node build.js",
     "test": "ava"
   },
   "repository": {
