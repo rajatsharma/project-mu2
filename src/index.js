@@ -1,3 +1,1 @@
-import a from './a';
-
-console.log(a, '🦖');
+module.exports = x => x;
