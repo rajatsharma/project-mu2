@@ -1,7 +1,6 @@
 {
-  "extends": "@hellpack/eslint-config-hellpack",
+  "extends": "eslint-config-airbnb-base",
   "plugins": [
-    "eslint-plugin-prettier",
     "eslint-plugin-import"
   ]
 }
