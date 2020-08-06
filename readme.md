@@ -2,9 +2,11 @@
 
 _Template for typescript projects_
 
-### 🤺 Getting started
+### 🤘 Prepacked with
 
-- Install dependencies using `yarn`. _That's it._
+- [Typescript](https://www.typescriptlang.org/)
+- [Eslint](https://eslint.org/)
+- [Ava](https://github.com/avajs/ava)
 
 ### 🗣 List of Commands
 
@@ -19,3 +21,5 @@ Build project in production mode.
 ### 🚦 Status
 
 ![Build](https://github.com/rajatsharma/mu2/workflows/Build/badge.svg)
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![TypeScript](https://img.shields.io/badge/%3C%2F%3E-TypeScript-%230074c1.svg)](http://www.typescriptlang.org/)
