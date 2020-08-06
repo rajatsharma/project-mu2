@@ -1,6 +1,6 @@
-## mu2
+## mu2 🥚
 
-_Template for typescript projects_
+_Template for Typescript projects_
 
 ### 🤘 Prepacked with
 
