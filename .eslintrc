@@ -1,6 +1,3 @@
 {
-  "extends": "eslint-config-airbnb-base",
-  "plugins": [
-    "eslint-plugin-import"
-  ]
+  "extends": "./node_modules/engine-rho/lib/eslintrc"
 }

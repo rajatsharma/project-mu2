@@ -1,35 +1,35 @@
 {
   "name": "mu2",
+  "description": "Template for typescript projects",
   "version": "1.0.0",
-  "private": true,
+  "author": "Rajat Sharma",
+  "bugs": {
+    "url": "https://github.com/rajatsharma/mu2/issues"
+  },
+  "devDependencies": {
+    "ava": "^3.1.0",
+    "engine-rho": "^0.1.1"
+  },
   "engines": {
     "node": ">=10.18.0"
   },
-  "description": "Initiator Repo",
+  "homepage": "https://github.com/rajatsharma/mu2#readme",
+  "keywords": [
+    "editorconfig",
+    "eslint",
+    "ts",
+    "repos"
+  ],
+  "license": "MIT",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "ava"
-  },
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rajatsharma/mu2.git"
   },
-  "keywords": [
-    "repos",
-    "js",
-    "eslint",
-    "editorconfig"
-  ],
-  "author": "Rajat Sharma",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rajatsharma/mu2/issues"
-  },
-  "homepage": "https://github.com/rajatsharma/mu2#readme",
-  "devDependencies": {
-    "ava": "^3.1.0",
-    "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.20.0"
+  "scripts": {
+    "dev": "rho dev",
+    "build": "rho build",
+    "test": "ava"
   }
 }

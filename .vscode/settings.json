@@ -1,11 +1,15 @@
 {
-  "editor.formatOnSave": true,
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
   "eslint.format.enable": true,
   "[json]": {
-    "editor.formatOnType": true
+    "editor.formatOnSave": true,
+    "editor.suggest.insertMode": "replace",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "cSpell.words": ["direnv"]
+  "[jsonc]": {
+    "editor.formatOnSave": true,
+    "editor.suggest.insertMode": "replace"
+  }
 }
