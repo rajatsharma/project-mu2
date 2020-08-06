@@ -17,3 +17,5 @@ Run dev server that watches `src` directory and run build on changes.
 Build project in production mode.
 
 ### 🚦 Status
+
+![Build](https://github.com/rajatsharma/mu2/workflows/Build/badge.svg)
