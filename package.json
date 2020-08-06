@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "ava": "^3.1.0",
-    "engine-rho": "^0.1.1"
+    "engine-rho": "^0.1.2-2"
   },
   "engines": {
     "node": ">=10.18.0"
@@ -17,8 +17,8 @@
   "keywords": [
     "editorconfig",
     "eslint",
-    "ts",
-    "repos"
+    "repos",
+    "ts"
   ],
   "license": "MIT",
   "main": "lib/index.js",
@@ -28,8 +28,8 @@
     "url": "git+https://github.com/rajatsharma/mu2.git"
   },
   "scripts": {
-    "dev": "rho dev",
     "build": "rho build",
+    "dev": "rho dev",
     "test": "ava"
   }
 }
