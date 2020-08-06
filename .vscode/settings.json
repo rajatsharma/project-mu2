@@ -6,5 +6,6 @@
   "eslint.format.enable": true,
   "[json]": {
     "editor.formatOnType": true
-  }
+  },
+  "cSpell.words": ["direnv"]
 }
