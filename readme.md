@@ -1,11 +1,19 @@
 ## mu2
 
-_Initiator Repo._
+_Template for typescript projects_
 
-<a href="https://github.com/rajatsharma/hellpack">
-    <img src="https://img.shields.io/badge/uses-hellpack%20%F0%9F%94%A5-%23414770.svg" alt="hellpack"/>
-</a>
+### 🤺 Getting started
 
-### Status
+- Install dependencies using `yarn`. _That's it._
 
-![Simple Ava Test](https://github.com/rajatsharma/mu2/workflows/Simple%20Ava%20Test/badge.svg?branch=master)
+### 🗣 List of Commands
+
+##### `yarn dev`
+
+Run dev server that watches `src` directory and run build on changes.
+
+##### `yarn build`
+
+Build project in production mode.
+
+### 🚦 Status
