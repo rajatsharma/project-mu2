@@ -1,4 +1,4 @@
-name: Simple Ava Test
+name: Build
 
 on: [push]
 
