@@ -2,8 +2,6 @@
 
 [fork]: /fork
 [pr]: /compare
-[style]: https://github.com/airbnb/javascript
-[code-of-conduct]: CODE_OF_CONDUCT.md
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 

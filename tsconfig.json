@@ -6,12 +6,17 @@
     "forceConsistentCasingInFileNames": true,
     "importsNotUsedAsValues": "error",
     "isolatedModules": true,
-    "lib": ["es6"],
+    "lib": [
+      "es6"
+    ],
     "module": "commonjs",
     "rootDir": "src",
     "sourceMap": true,
     "strict": true,
-    "target": "es6"
+    "target": "es6",
+    "outDir": "dist"
   },
-  "include": ["src"]
+  "include": [
+    "src"
+  ]
 }

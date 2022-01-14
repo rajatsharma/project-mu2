@@ -8,7 +8,11 @@
   },
   "devDependencies": {
     "ava": "^3.1.0",
-    "engine-rho": "^0.1.2-2"
+    "esbuild": "^0.14.11",
+    "eslint-config-rsh": "https://github.com/rajatsharma/eslint-config-rsh"
+  },
+  "eslintConfig": {
+    "extends": "rsh"
   },
   "engines": {
     "node": ">=10.18.0"
@@ -28,8 +32,8 @@
     "url": "git+https://github.com/rajatsharma/mu2.git"
   },
   "scripts": {
-    "build": "rho build",
-    "dev": "rho dev",
+    "build": "esbuild src/index.ts --bundle --outdir=dist --format=cjs",
+    "dev": "esbuild src/index.ts --watch --outdir=dist",
     "test": "ava"
   }
 }
