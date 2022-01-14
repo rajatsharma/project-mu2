@@ -1,4 +1,4 @@
-## mu2 🥚
+## Project Mu2 🥚
 
 _Template for Typescript projects_
 
